@@ -101,3 +101,6 @@ Blinkit Analysis.ipynb          # Main Python analysis notebook
 
 ## 📜 License
 This project is intended for **Educational Purposes Only**.
+All data and analysis are intended for learning and demonstration.
+
+© 2026 Himanshu Patle. All rights reserved.

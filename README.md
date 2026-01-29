@@ -41,7 +41,7 @@ The Power BI report provides a quick and interactive overview of key business me
 
 🖼️ **Sample Dashboard Screenshot:**   
 
-![Power BI Dashboard](<img width="1051" height="601" alt="Image" src="https://github.com/user-attachments/assets/30a0b9a5-5e34-4065-bd82-fbc4276b0213" />)
+![Power BI Dashboard](Images/powerbi_dashboard.png)
 
 ---
 

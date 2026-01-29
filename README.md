@@ -78,16 +78,14 @@ Performed EDA and data preprocessing steps in Python:
 ---
 
 ## 📁 Files in Repository
-
-blinkit-analysis/
-├── Blinkit Analysis.ipynb          # Main Python analysis notebook
+```Blinkit-Sales-Analysis-Python-PowerBI/
+Blinkit Analysis.ipynb          # Main Python analysis notebook
 ├── Blinkit_Analysis.pbix           # Power BI dashboard file
 ├── BlinkIT_Grocery_Data.csv        # Original dataset
 ├── README.md                       # Project documentation (this file)
 ├── requirements.txt                # Python dependencies
 └── images/                         # Visualization exports
     └── powerbi_dashboard.png       # Dashboard screenshot
-
 ---
 
 ## 👤 Author

@@ -9,7 +9,7 @@ This project is a detailed data analysis of Blinkit – India's last-minute deli
 - **Python** – Data Cleaning and Exploration
 - **Jupyter Notebook** – Data Analysis
 - **Power BI** – Interactive Dashboard Visualization
-- **Libraries:** pandas, matplotlib
+- **Libraries:** numpy, pandas, matplotlib, seaborn
 
 ---
 
